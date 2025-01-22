@@ -65,3 +65,14 @@ Results
    b. RMSE (LSTM): 0.03–0.05
 
    c. RMSE (ARIMA): 1.7–27.4
+
+Key Visualizations
+
+1. Seasonal decomposition of temperature trends.
+2. RMSE comparisons across ARIMA, LSTM, and Hybrid models.
+3. Performance graphs for selected cities (e.g., Honolulu, Phoenix).
+
+References
+
+1. S. Siami-Namini et al., "A Comparison of ARIMA and LSTM in Forecasting Time Series," IEEE, 2018.
+2. A. Salman et al., "Weather Forecasting Using Merged LSTM and ARIMA Models," Journal of Computer Science, 2018.
